@@ -1,0 +1,19 @@
+[2024-06-11 16:24:07,572][root][INFO] - Using device cpu
+[2024-06-11 16:24:07,650][root][INFO] - Network:
+	2 input channels
+	3 output channels
+	Bilinear upscaling
+[2024-06-11 16:24:07,654][root][INFO] - Creating dataset with 81 examples
+[2024-06-11 16:24:07,655][root][INFO] - Creating dataset with 0 examples
+[2024-06-11 16:24:10,145][root][INFO] - Starting training:
+        Epochs:          300
+        Batch size:      16
+        Learning rate:   0.0001
+        Training size:   81
+        Validation size: 0
+        Checkpoints:     True
+        Device:          cpu
+        Intervals        [1, 3, 5, 7, 9]
+        Optimizer        Adam
+        Criterion        RMSE_Q_NormLoss
+    

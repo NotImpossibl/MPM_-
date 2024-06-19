@@ -1,0 +1,5 @@
+[2024-06-13 14:17:54,281][root][INFO] - Using device cpu
+[2024-06-13 14:17:54,443][root][INFO] - Network:
+	2 input channels
+	3 output channels
+	Bilinear upscaling

@@ -1,0 +1,7 @@
+[2024-06-11 00:51:16,025][root][INFO] - Using device cpu
+[2024-06-11 00:51:16,108][root][INFO] - Network:
+	2 input channels
+	3 output channels
+	Bilinear upscaling
+[2024-06-11 00:51:16,110][root][INFO] - Creating dataset with 0 examples
+[2024-06-11 00:51:16,111][root][INFO] - Creating dataset with 0 examples
